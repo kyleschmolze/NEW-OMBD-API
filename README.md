@@ -2,6 +2,8 @@ OMDB Api Challenge
 =================================
 
 
+Some new instructions here.
+
 For this project we'll be using the Open Movie Database API.
 
 http://www.omdbapi.com/
